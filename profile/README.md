@@ -8,8 +8,6 @@ Chemix is using AI to develop breakthrough EV battery technologies. Today’s ba
 
 Chemix’s mission is to accelerate the development of the most sustainable battery chemistry by first eliminating the use of cobalt, and ultimately the reliance on nickel and lithium, all without compromising vehicle performance. Based in Sunnyvale, CA, Chemix’s team comprises researchers and business leaders from Harvard, Stanford, UC Berkeley, MIT, and industry-leading battery and AI startups. 
 
-Chemix is currently backed by a group of fantastic strategic partners and VC firms, including Mayfield, Ibex Investors, Radical Ventures, Urban Innovation Fund, and Berkeley SkyDeck.
-
 <h4 align="center">
 
 [We Are Hiring!](https://apply.workable.com/chemix/)
