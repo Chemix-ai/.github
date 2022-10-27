@@ -1,7 +1,5 @@
 <p align="center">
-
-![logo_with_name]
-
+<img src="https://raw.githubusercontent.com/Chemix-ai/.github/main/logo_with_name.png" alt="chemix-logo" width="480"/>
 </p>
 
 Chemix is using AI to develop breakthrough EV battery technologies. Today’s battery development is slow, labor-intensive, and expensive. With AI, Chemix can reduce development time by 10x. Chemix’s battery designs are compatible with existing Li-ion battery manufacturing capacity, enabling a seamless transition of customers’  battery R&D to volume production. 
@@ -13,6 +11,3 @@ Chemix’s mission is to accelerate the development of the most sustainable batt
 [We Are Hiring!](https://apply.workable.com/chemix/)
 
 </h4>
-
-
-[logo_with_name]: https://raw.githubusercontent.com/Chemix-ai/.github/main/logo_with_name.png
